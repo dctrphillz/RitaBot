@@ -18,7 +18,7 @@ module.exports = function run (bot, status, config, writable = true)
    const activevar = [
       `tacoforceacademy.com | !tr help`,
       `for messages to translate | tacoforceacademy.com`,
-      "messages to translate | tacoforceacademy.com",
+      "messages to translate | tacoforceacademy.com ",
       `!tr help commands | tacoforceacademy.com`,
       "translations | tacoforceacademy.com",
       `v.${config.version} | tacoforceacademy.com`,
